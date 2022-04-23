@@ -1,2 +1,2 @@
-# path-to-data-science
- here i'll be working with data related techs
+# Path to Data Science
+ here i'll be working with data science related techs
